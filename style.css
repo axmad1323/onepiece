@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: mediumaquamarine;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    color: darkgray;
+}
+
+footer {
+    border:15px solid pink;
+}
+
+footer p {
+    border: 10px solid pink;
+}
+
+nav a {
+    text-decoration: none;
+    color: gray;
+}
+
+nav {
+    border: 3px solid gray;
+}
+
+p img {
+    background-color: darkgreen;
+}
+
+main{
+    margin: 20px;
+}
+
+h2 {
+    background-color: blue;
+}
+
+
+
